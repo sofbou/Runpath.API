@@ -1,0 +1,14 @@
+D:\Projects\RunPath\RunPath.API\bin\Debug\netcoreapp2.2\RunPath.API.deps.json
+D:\Projects\RunPath\RunPath.API\bin\Debug\netcoreapp2.2\RunPath.API.runtimeconfig.json
+D:\Projects\RunPath\RunPath.API\bin\Debug\netcoreapp2.2\RunPath.API.runtimeconfig.dev.json
+D:\Projects\RunPath\RunPath.API\bin\Debug\netcoreapp2.2\RunPath.API.dll
+D:\Projects\RunPath\RunPath.API\bin\Debug\netcoreapp2.2\RunPath.API.pdb
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.csproj.CoreCompileInputs.cache
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.RazorAssemblyInfo.cache
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.RazorAssemblyInfo.cs
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.AssemblyInfoInputs.cache
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.AssemblyInfo.cs
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.RazorTargetAssemblyInfo.cache
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.dll
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.pdb
+D:\Projects\RunPath\RunPath.API\obj\Debug\netcoreapp2.2\RunPath.API.csprojResolveAssemblyReference.cache
